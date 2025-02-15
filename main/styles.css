@@ -97,6 +97,7 @@ select{
         font-weight: 500;
         margin-bottom: 50px;
         margin-left: 40px;
+        margin-top: 50px;
     }
     textarea{
         width: 80%;
